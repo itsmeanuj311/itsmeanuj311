@@ -4,7 +4,6 @@
 ⚡ I love Physics and Mathematics</br>
 🎮 Playing Video Games is really fun and it gives me so much relief</br>
 
-Language and Tools
 
 
 
