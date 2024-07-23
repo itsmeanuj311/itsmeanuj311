@@ -4,5 +4,10 @@
 ⚡ I love Physics and Mathematics</br>
 🎮 Playing Video Games is really fun and it gives me so much relief</br>
 
+Language and Tools
+
+
+
 Stats
+
 [![Anuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmeanuj311&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
