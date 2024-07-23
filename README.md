@@ -10,4 +10,4 @@ Language and Tools
 
 Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anuj Priyadarshi's&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
