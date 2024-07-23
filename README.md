@@ -1,5 +1,5 @@
 # 💫 About Me: Hi,I'm Anuj!
-💭 I am currently learning on React-Native & Working on my first app!<br>📧Reach me at anujsrs311@gmail.com </br>⚡ I love Physics and Mathematics<br>🎮 Playing Video Games is really fun and it gives me so much relief
+💭 I am currently learning on React-Native & Working on my first app!<br>📧 Reach me at anujsrs311@gmail.com </br>⚡ I love Physics and Mathematics<br>🎮 Playing Video Games is really fun and it gives me so much relief
 
 
 ## 🌐 Socials:
