@@ -10,7 +10,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=itsmeanuj311&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=itsmeanuj311&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeanuj311&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Hindi](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeanuj311&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=itsmeanuj311&theme=radical&no-frame=false&no-bg=false&margin-w=4)
